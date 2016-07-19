@@ -5,7 +5,7 @@
 	<author>Ludei</author>
 
 	<engines>
-        <engine name="cordova" version="<=4.0.0" />
+        <engine name="cordova" version="<=7.0.0" />
     </engines>
 
     <platform name="ios">
